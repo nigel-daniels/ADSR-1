@@ -1,0 +1,5 @@
+*-backups*
+*.lck
+.DS_Store
+.history/
+output/
