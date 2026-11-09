@@ -1,3 +1,5 @@
 (fp_lib_table
 	(version 7)
+	(lib (name "LM336-5.0") (type "KiCad") (uri "${KIPRJMOD}/LM336-5.0") (options "") (descr ""))
+	(lib (name "SW_Momentary_Push") (type "KiCad") (uri "${KIPRJMOD}/SW_Momentary_Push") (options "") (descr ""))
 )

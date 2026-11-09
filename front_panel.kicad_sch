@@ -105,9 +105,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "7HP Module (front panel)"
+	(text "ADSR 1 (front panel)"
 		(exclude_from_sim no)
-		(at 125.222 127.762 0)
+		(at 119.634 127.508 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -115,15 +115,15 @@
 		)
 		(uuid "0b964c64-83ad-4dc6-80e1-b9e891b52527")
 	)
-	(text "V 1.0"
+	(text "1.0"
 		(exclude_from_sim no)
-		(at 185.42 131.572 0)
+		(at 183.134 131.318 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "5b637242-f5db-4e6f-b586-cf7849f67554")
+		(uuid "88492c95-3e21-4a46-8ea9-33484cf54f20")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
@@ -203,7 +203,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 24.13 29.21 0)
+		(at 24.13 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -214,7 +214,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c769dd7-c844-4066-bcbd-42c9f8e36cdc")
 		(property "Reference" "H12"
-			(at 26.67 27.9399 0)
+			(at 26.67 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -225,7 +225,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 26.67 30.4799 0)
+			(at 26.67 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -236,7 +236,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 24.13 29.21 0)
+			(at 24.13 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -247,7 +247,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 29.21 0)
+			(at 24.13 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -258,7 +258,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 24.13 29.21 0)
+			(at 24.13 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
